@@ -22,7 +22,7 @@ This project implements a motion detection alarm system using Python and OpenCV.
 ## Installation
 
 1. Clone the repository
-   git clone https://github.com/ezhil56x/Motion-Detection-Alarm-OpenCV.git
+   git clone https://github.com/ShelinVankawala/Motion-Detection-Alarm-OpenCV
 
 2. Install the dependencies
    pip install opencv-python numpy imutils
