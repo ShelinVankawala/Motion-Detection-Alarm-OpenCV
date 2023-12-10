@@ -22,29 +22,17 @@ This project implements a motion detection alarm system using Python and OpenCV.
 ## Installation
 
 1. Clone the repository
-
-   ```
    git clone https://github.com/ezhil56x/Motion-Detection-Alarm-OpenCV.git
-   ```
 
 2. Install the dependencies
-
-   ```
    pip install opencv-python numpy imutils
-   ```
 
 3. Configure the email settings in `mail.py`
-
-   ```
    sender_email = "your_email_address"
    sender_password = "your_email_password"
    recipient_email = "recipient_email_address"
-   ```
 
 4. Run the application
-
-   ```
    python main.py
-   ```
 
 5. A window will appear with the webcam feed. Press 't' to activate/deactivate the motion detection alarm. Press 'q' to quit the application.
